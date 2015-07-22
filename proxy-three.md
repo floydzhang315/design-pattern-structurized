@@ -1,4 +1,4 @@
-# C#设计模式之代理模式（三）  
+# `C#` 设计模式之代理模式（三）  
 
 ## 远程代理  
 
@@ -8,7 +8,7 @@
 
 ![远程代理示意图](images/1353945367_4937.jpg)      
 
-在基于.NET平台的分布式技术，例如 DCOM（Distribute Component Object Model，分布式组件对象模型）、Web Service 中，都应用了远程代理模式，大家可以查阅相关资料进行扩展学习。  
+在基于 .NET 平台的分布式技术，例如 DCOM（Distribute Component Object Model，分布式组件对象模型）、Web Service 中，都应用了远程代理模式，大家可以查阅相关资料进行扩展学习。  
 
 ## 虚拟代理  
 

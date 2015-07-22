@@ -2,7 +2,7 @@
 
 ## 完整解决方案  
 
-Sunny 软件公司开发人员决定使用适配器模式来重用算法库中的算法，其基本结构如图9-4所示：
+Sunny 软件公司开发人员决定使用适配器模式来重用算法库中的算法，其基本结构如图 9-4 所示：
 
 ![算法库重用结构图](images/1362069067_3033.jpg) 
 
@@ -93,7 +93,7 @@ return searchObj.binarySearch(array,key); //调用适配者类BinarySearch的查
 }
 ```
 
-为了让系统具备良好的灵活性和可扩展性，我们引入了工具类XMLUtil和配置文件，其中，XMLUtil类的代码如下所示：  
+为了让系统具备良好的灵活性和可扩展性，我们引入了工具类 XMLUtil 和配置文件，其中，XMLUtil 类的代码如下所示：  
 
 ```
 import javax.xml.parsers.*;
